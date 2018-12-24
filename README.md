@@ -1,5 +1,3 @@
-C# Advanced
-
 -working with data structures, stacks, queues and sets
 
 -working with matrices
