@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\2_Matrices\EXERCISES\EXERCISES\910_The Heigan Dance\bin\Debug\netcoreapp2.0\910_The Heigan Dance.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\2_Matrices\EXERCISES\EXERCISES\910_The Heigan Dance\bin\Debug\netcoreapp2.0\910_The Heigan Dance.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\2_Matrices\EXERCISES\EXERCISES\910_The Heigan Dance\bin\Debug\netcoreapp2.0\910_The Heigan Dance.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\2_Matrices\EXERCISES\EXERCISES\910_The Heigan Dance\bin\Debug\netcoreapp2.0\910_The Heigan Dance.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\2_Matrices\EXERCISES\EXERCISES\910_The Heigan Dance\bin\Debug\netcoreapp2.0\910_The Heigan Dance.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\2_Matrices\EXERCISES\EXERCISES\910_The Heigan Dance\obj\Debug\netcoreapp2.0\910_The Heigan Dance.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\2_Matrices\EXERCISES\EXERCISES\910_The Heigan Dance\obj\Debug\netcoreapp2.0\910_The Heigan Dance.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\2_Matrices\EXERCISES\EXERCISES\910_The Heigan Dance\obj\Debug\netcoreapp2.0\910_The Heigan Dance.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\2_Matrices\EXERCISES\EXERCISES\910_The Heigan Dance\obj\Debug\netcoreapp2.0\910_The Heigan Dance.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\2_Matrices\EXERCISES\EXERCISES\910_The Heigan Dance\obj\Debug\netcoreapp2.0\910_The Heigan Dance.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\2_Matrices\EXERCISES\EXERCISES\910_The Heigan Dance\obj\Debug\netcoreapp2.0\910_The Heigan Dance.pdb

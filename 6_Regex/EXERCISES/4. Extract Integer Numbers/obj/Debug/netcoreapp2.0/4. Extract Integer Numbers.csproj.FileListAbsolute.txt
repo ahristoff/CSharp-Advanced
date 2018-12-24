@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\6___Regex\Lab\Regex\4. Extract Integer Numbers\bin\Debug\netcoreapp2.0\4. Extract Integer Numbers.deps.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\6___Regex\Lab\Regex\4. Extract Integer Numbers\bin\Debug\netcoreapp2.0\4. Extract Integer Numbers.runtimeconfig.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\6___Regex\Lab\Regex\4. Extract Integer Numbers\bin\Debug\netcoreapp2.0\4. Extract Integer Numbers.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\6___Regex\Lab\Regex\4. Extract Integer Numbers\bin\Debug\netcoreapp2.0\4. Extract Integer Numbers.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\6___Regex\Lab\Regex\4. Extract Integer Numbers\bin\Debug\netcoreapp2.0\4. Extract Integer Numbers.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\6___Regex\Lab\Regex\4. Extract Integer Numbers\obj\Debug\netcoreapp2.0\4. Extract Integer Numbers.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\6___Regex\Lab\Regex\4. Extract Integer Numbers\obj\Debug\netcoreapp2.0\4. Extract Integer Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\6___Regex\Lab\Regex\4. Extract Integer Numbers\obj\Debug\netcoreapp2.0\4. Extract Integer Numbers.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\6___Regex\Lab\Regex\4. Extract Integer Numbers\obj\Debug\netcoreapp2.0\4. Extract Integer Numbers.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\6___Regex\Lab\Regex\4. Extract Integer Numbers\obj\Debug\netcoreapp2.0\4. Extract Integer Numbers.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\6___Regex\Lab\Regex\4. Extract Integer Numbers\obj\Debug\netcoreapp2.0\4. Extract Integer Numbers.pdb

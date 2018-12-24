@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\5_Sets _and_Dictionary\Exercises\Exercises\8_Hands of cards\bin\Debug\netcoreapp2.0\8_Hands of cards.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\5_Sets _and_Dictionary\Exercises\Exercises\8_Hands of cards\bin\Debug\netcoreapp2.0\8_Hands of cards.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\5_Sets _and_Dictionary\Exercises\Exercises\8_Hands of cards\bin\Debug\netcoreapp2.0\8_Hands of cards.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\5_Sets _and_Dictionary\Exercises\Exercises\8_Hands of cards\bin\Debug\netcoreapp2.0\8_Hands of cards.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\5_Sets _and_Dictionary\Exercises\Exercises\8_Hands of cards\bin\Debug\netcoreapp2.0\8_Hands of cards.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\5_Sets _and_Dictionary\Exercises\Exercises\8_Hands of cards\obj\Debug\netcoreapp2.0\8_Hands of cards.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\5_Sets _and_Dictionary\Exercises\Exercises\8_Hands of cards\obj\Debug\netcoreapp2.0\8_Hands of cards.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\5_Sets _and_Dictionary\Exercises\Exercises\8_Hands of cards\obj\Debug\netcoreapp2.0\8_Hands of cards.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\5_Sets _and_Dictionary\Exercises\Exercises\8_Hands of cards\obj\Debug\netcoreapp2.0\8_Hands of cards.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\5_Sets _and_Dictionary\Exercises\Exercises\8_Hands of cards\obj\Debug\netcoreapp2.0\8_Hands of cards.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\5_Sets _and_Dictionary\Exercises\Exercises\8_Hands of cards\obj\Debug\netcoreapp2.0\8_Hands of cards.pdb

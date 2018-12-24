@@ -1,0 +1,22 @@
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\LAB\Matrix\4_Pascal Triangle\obj\Debug\netcoreapp2.0\4_Pascal Triangle.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\LAB\Matrix\4_Pascal Triangle\obj\Debug\netcoreapp2.0\4_Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\LAB\Matrix\4_Pascal Triangle\obj\Debug\netcoreapp2.0\4_Pascal Triangle.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\LAB\Matrix\4_Pascal Triangle\obj\Debug\netcoreapp2.0\4_Pascal Triangle.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\LAB\Matrix\4_Pascal Triangle\bin\Debug\netcoreapp2.0\4_Pascal Triangle.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\LAB\Matrix\4_Pascal Triangle\bin\Debug\netcoreapp2.0\4_Pascal Triangle.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\LAB\Matrix\4_Pascal Triangle\bin\Debug\netcoreapp2.0\4_Pascal Triangle.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\LAB\Matrix\4_Pascal Triangle\bin\Debug\netcoreapp2.0\4_Pascal Triangle.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\LAB\Matrix\4_Pascal Triangle\bin\Debug\netcoreapp2.0\4_Pascal Triangle.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\LAB\Matrix\4_Pascal Triangle\obj\Debug\netcoreapp2.0\4_Pascal Triangle.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\LAB\Matrix\4_Pascal Triangle\obj\Debug\netcoreapp2.0\4_Pascal Triangle.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\2_Matrices\LAB\Matrix\4_Pascal Triangle\bin\Debug\netcoreapp2.0\4_Pascal Triangle.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\2_Matrices\LAB\Matrix\4_Pascal Triangle\bin\Debug\netcoreapp2.0\4_Pascal Triangle.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\2_Matrices\LAB\Matrix\4_Pascal Triangle\bin\Debug\netcoreapp2.0\4_Pascal Triangle.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\2_Matrices\LAB\Matrix\4_Pascal Triangle\bin\Debug\netcoreapp2.0\4_Pascal Triangle.dll
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\2_Matrices\LAB\Matrix\4_Pascal Triangle\bin\Debug\netcoreapp2.0\4_Pascal Triangle.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\2_Matrices\LAB\Matrix\4_Pascal Triangle\obj\Debug\netcoreapp2.0\4_Pascal Triangle.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\2_Matrices\LAB\Matrix\4_Pascal Triangle\obj\Debug\netcoreapp2.0\4_Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\2_Matrices\LAB\Matrix\4_Pascal Triangle\obj\Debug\netcoreapp2.0\4_Pascal Triangle.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\2_Matrices\LAB\Matrix\4_Pascal Triangle\obj\Debug\netcoreapp2.0\4_Pascal Triangle.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\2_Matrices\LAB\Matrix\4_Pascal Triangle\obj\Debug\netcoreapp2.0\4_Pascal Triangle.dll
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\2_Matrices\LAB\Matrix\4_Pascal Triangle\obj\Debug\netcoreapp2.0\4_Pascal Triangle.pdb

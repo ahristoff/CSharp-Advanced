@@ -1,0 +1,30 @@
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\5_Hot Potato\bin\Debug\netcoreapp2.0\5_Hot Potato.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\5_Hot Potato\bin\Debug\netcoreapp2.0\5_Hot Potato.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\5_Hot Potato\bin\Debug\netcoreapp2.0\5_Hot Potato.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\5_Hot Potato\bin\Debug\netcoreapp2.0\5_Hot Potato.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\5_Hot Potato\bin\Debug\netcoreapp2.0\5_Hot Potato.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\5_Hot Potato\obj\Debug\netcoreapp2.0\5_Hot Potato.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\5_Hot Potato\obj\Debug\netcoreapp2.0\5_Hot Potato.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\5_Hot Potato\obj\Debug\netcoreapp2.0\5_Hot Potato.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\5_Hot Potato\obj\Debug\netcoreapp2.0\5_Hot Potato.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\5_Hot Potato\obj\Debug\netcoreapp2.0\5_Hot Potato.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\5_Hot Potato\bin\Debug\netcoreapp2.0\5_Hot Potato.deps.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\5_Hot Potato\bin\Debug\netcoreapp2.0\5_Hot Potato.runtimeconfig.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\5_Hot Potato\bin\Debug\netcoreapp2.0\5_Hot Potato.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\5_Hot Potato\bin\Debug\netcoreapp2.0\5_Hot Potato.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\5_Hot Potato\bin\Debug\netcoreapp2.0\5_Hot Potato.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\5_Hot Potato\obj\Debug\netcoreapp2.0\5_Hot Potato.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\5_Hot Potato\obj\Debug\netcoreapp2.0\5_Hot Potato.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\5_Hot Potato\obj\Debug\netcoreapp2.0\5_Hot Potato.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\5_Hot Potato\obj\Debug\netcoreapp2.0\5_Hot Potato.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\5_Hot Potato\obj\Debug\netcoreapp2.0\5_Hot Potato.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\5_Hot Potato\bin\Debug\netcoreapp2.0\5_Hot Potato.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\5_Hot Potato\bin\Debug\netcoreapp2.0\5_Hot Potato.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\5_Hot Potato\bin\Debug\netcoreapp2.0\5_Hot Potato.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\5_Hot Potato\bin\Debug\netcoreapp2.0\5_Hot Potato.dll
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\5_Hot Potato\bin\Debug\netcoreapp2.0\5_Hot Potato.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\5_Hot Potato\obj\Debug\netcoreapp2.0\5_Hot Potato.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\5_Hot Potato\obj\Debug\netcoreapp2.0\5_Hot Potato.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\5_Hot Potato\obj\Debug\netcoreapp2.0\5_Hot Potato.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\5_Hot Potato\obj\Debug\netcoreapp2.0\5_Hot Potato.dll
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\5_Hot Potato\obj\Debug\netcoreapp2.0\5_Hot Potato.pdb

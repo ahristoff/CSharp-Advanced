@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\5_Sets _and_Dictionary\Exercises\Exercises\6_A miner task\bin\Debug\netcoreapp2.0\6_A miner task.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\5_Sets _and_Dictionary\Exercises\Exercises\6_A miner task\bin\Debug\netcoreapp2.0\6_A miner task.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\5_Sets _and_Dictionary\Exercises\Exercises\6_A miner task\bin\Debug\netcoreapp2.0\6_A miner task.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\5_Sets _and_Dictionary\Exercises\Exercises\6_A miner task\bin\Debug\netcoreapp2.0\6_A miner task.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\5_Sets _and_Dictionary\Exercises\Exercises\6_A miner task\bin\Debug\netcoreapp2.0\6_A miner task.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\5_Sets _and_Dictionary\Exercises\Exercises\6_A miner task\obj\Debug\netcoreapp2.0\6_A miner task.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\5_Sets _and_Dictionary\Exercises\Exercises\6_A miner task\obj\Debug\netcoreapp2.0\6_A miner task.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\5_Sets _and_Dictionary\Exercises\Exercises\6_A miner task\obj\Debug\netcoreapp2.0\6_A miner task.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\5_Sets _and_Dictionary\Exercises\Exercises\6_A miner task\obj\Debug\netcoreapp2.0\6_A miner task.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\5_Sets _and_Dictionary\Exercises\Exercises\6_A miner task\obj\Debug\netcoreapp2.0\6_A miner task.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\5_Sets _and_Dictionary\Exercises\Exercises\6_A miner task\obj\Debug\netcoreapp2.0\6_A miner task.pdb

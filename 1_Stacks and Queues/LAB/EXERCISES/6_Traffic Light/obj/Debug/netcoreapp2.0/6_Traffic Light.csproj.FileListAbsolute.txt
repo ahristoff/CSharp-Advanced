@@ -1,0 +1,10 @@
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\6_Traffic Light\obj\Debug\netcoreapp2.0\6_Traffic Light.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\6_Traffic Light\obj\Debug\netcoreapp2.0\6_Traffic Light.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\6_Traffic Light\obj\Debug\netcoreapp2.0\6_Traffic Light.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\6_Traffic Light\bin\Debug\netcoreapp2.0\6_Traffic Light.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\6_Traffic Light\bin\Debug\netcoreapp2.0\6_Traffic Light.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\6_Traffic Light\bin\Debug\netcoreapp2.0\6_Traffic Light.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\6_Traffic Light\bin\Debug\netcoreapp2.0\6_Traffic Light.dll
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\6_Traffic Light\bin\Debug\netcoreapp2.0\6_Traffic Light.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\6_Traffic Light\obj\Debug\netcoreapp2.0\6_Traffic Light.dll
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\6_Traffic Light\obj\Debug\netcoreapp2.0\6_Traffic Light.pdb

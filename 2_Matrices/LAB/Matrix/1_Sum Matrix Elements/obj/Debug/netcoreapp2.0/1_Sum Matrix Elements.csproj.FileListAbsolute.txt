@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\LAB\Matrix\1_Sum Matrix Elements\bin\Debug\netcoreapp2.0\1_Sum Matrix Elements.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\LAB\Matrix\1_Sum Matrix Elements\bin\Debug\netcoreapp2.0\1_Sum Matrix Elements.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\LAB\Matrix\1_Sum Matrix Elements\bin\Debug\netcoreapp2.0\1_Sum Matrix Elements.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\LAB\Matrix\1_Sum Matrix Elements\bin\Debug\netcoreapp2.0\1_Sum Matrix Elements.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\LAB\Matrix\1_Sum Matrix Elements\bin\Debug\netcoreapp2.0\1_Sum Matrix Elements.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\LAB\Matrix\1_Sum Matrix Elements\obj\Debug\netcoreapp2.0\1_Sum Matrix Elements.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\LAB\Matrix\1_Sum Matrix Elements\obj\Debug\netcoreapp2.0\1_Sum Matrix Elements.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\LAB\Matrix\1_Sum Matrix Elements\obj\Debug\netcoreapp2.0\1_Sum Matrix Elements.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\LAB\Matrix\1_Sum Matrix Elements\obj\Debug\netcoreapp2.0\1_Sum Matrix Elements.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\LAB\Matrix\1_Sum Matrix Elements\obj\Debug\netcoreapp2.0\1_Sum Matrix Elements.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\LAB\Matrix\1_Sum Matrix Elements\obj\Debug\netcoreapp2.0\1_Sum Matrix Elements.pdb

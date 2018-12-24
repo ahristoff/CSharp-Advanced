@@ -1,0 +1,12 @@
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\4. Copy Binary File\bin\Debug\netcoreapp2.0\4. Copy Binary File.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\4. Copy Binary File\bin\Debug\netcoreapp2.0\4. Copy Binary File.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\4. Copy Binary File\bin\Debug\netcoreapp2.0\4. Copy Binary File.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\4. Copy Binary File\bin\Debug\netcoreapp2.0\4. Copy Binary File.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\4. Copy Binary File\bin\Debug\netcoreapp2.0\4. Copy Binary File.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\4. Copy Binary File\obj\Debug\netcoreapp2.0\4. Copy Binary File.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\4. Copy Binary File\obj\Debug\netcoreapp2.0\4. Copy Binary File.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\4. Copy Binary File\obj\Debug\netcoreapp2.0\4. Copy Binary File.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\4. Copy Binary File\obj\Debug\netcoreapp2.0\4. Copy Binary File.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\4. Copy Binary File\obj\Debug\netcoreapp2.0\4. Copy Binary File.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\4. Copy Binary File\obj\Debug\netcoreapp2.0\4. Copy Binary File.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\4. Copy Binary File\bin\Debug\netcoreapp2.0\copyMe.png

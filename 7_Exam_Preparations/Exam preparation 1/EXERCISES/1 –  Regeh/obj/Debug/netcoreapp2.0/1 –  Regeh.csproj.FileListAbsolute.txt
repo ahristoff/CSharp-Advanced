@@ -1,0 +1,22 @@
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\1 –  Regeh\bin\Debug\netcoreapp2.0\1 –  Regeh.deps.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\1 –  Regeh\bin\Debug\netcoreapp2.0\1 –  Regeh.runtimeconfig.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\1 –  Regeh\bin\Debug\netcoreapp2.0\1 –  Regeh.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\1 –  Regeh\bin\Debug\netcoreapp2.0\1 –  Regeh.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\1 –  Regeh\bin\Debug\netcoreapp2.0\1 –  Regeh.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\1 –  Regeh\obj\Debug\netcoreapp2.0\1 –  Regeh.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\1 –  Regeh\obj\Debug\netcoreapp2.0\1 –  Regeh.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\1 –  Regeh\obj\Debug\netcoreapp2.0\1 –  Regeh.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\1 –  Regeh\obj\Debug\netcoreapp2.0\1 –  Regeh.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\1 –  Regeh\obj\Debug\netcoreapp2.0\1 –  Regeh.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\1 –  Regeh\obj\Debug\netcoreapp2.0\1 –  Regeh.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\1 –  Regeh\bin\Debug\netcoreapp2.0\1 –  Regeh.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\1 –  Regeh\bin\Debug\netcoreapp2.0\1 –  Regeh.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\1 –  Regeh\bin\Debug\netcoreapp2.0\1 –  Regeh.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\1 –  Regeh\bin\Debug\netcoreapp2.0\1 –  Regeh.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\1 –  Regeh\bin\Debug\netcoreapp2.0\1 –  Regeh.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\1 –  Regeh\obj\Debug\netcoreapp2.0\1 –  Regeh.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\1 –  Regeh\obj\Debug\netcoreapp2.0\1 –  Regeh.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\1 –  Regeh\obj\Debug\netcoreapp2.0\1 –  Regeh.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\1 –  Regeh\obj\Debug\netcoreapp2.0\1 –  Regeh.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\1 –  Regeh\obj\Debug\netcoreapp2.0\1 –  Regeh.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\1 –  Regeh\obj\Debug\netcoreapp2.0\1 –  Regeh.pdb

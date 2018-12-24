@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\5___Sets _and_Dictionary\Lab\Lab\3_Count Same Values in Array\bin\Debug\netcoreapp2.0\3_Count Same Values in Array.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\5___Sets _and_Dictionary\Lab\Lab\3_Count Same Values in Array\bin\Debug\netcoreapp2.0\3_Count Same Values in Array.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\5___Sets _and_Dictionary\Lab\Lab\3_Count Same Values in Array\bin\Debug\netcoreapp2.0\3_Count Same Values in Array.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\5___Sets _and_Dictionary\Lab\Lab\3_Count Same Values in Array\bin\Debug\netcoreapp2.0\3_Count Same Values in Array.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\5___Sets _and_Dictionary\Lab\Lab\3_Count Same Values in Array\bin\Debug\netcoreapp2.0\3_Count Same Values in Array.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\5___Sets _and_Dictionary\Lab\Lab\3_Count Same Values in Array\obj\Debug\netcoreapp2.0\3_Count Same Values in Array.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\5___Sets _and_Dictionary\Lab\Lab\3_Count Same Values in Array\obj\Debug\netcoreapp2.0\3_Count Same Values in Array.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\5___Sets _and_Dictionary\Lab\Lab\3_Count Same Values in Array\obj\Debug\netcoreapp2.0\3_Count Same Values in Array.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\5___Sets _and_Dictionary\Lab\Lab\3_Count Same Values in Array\obj\Debug\netcoreapp2.0\3_Count Same Values in Array.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\5___Sets _and_Dictionary\Lab\Lab\3_Count Same Values in Array\obj\Debug\netcoreapp2.0\3_Count Same Values in Array.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\5___Sets _and_Dictionary\Lab\Lab\3_Count Same Values in Array\obj\Debug\netcoreapp2.0\3_Count Same Values in Array.pdb

@@ -1,0 +1,22 @@
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\1_Reverse Numbers with a Stack\bin\Debug\netcoreapp2.0\1_Reverse Numbers with a Stack.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\1_Reverse Numbers with a Stack\bin\Debug\netcoreapp2.0\1_Reverse Numbers with a Stack.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\1_Reverse Numbers with a Stack\bin\Debug\netcoreapp2.0\1_Reverse Numbers with a Stack.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\1_Reverse Numbers with a Stack\bin\Debug\netcoreapp2.0\1_Reverse Numbers with a Stack.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\1_Reverse Numbers with a Stack\bin\Debug\netcoreapp2.0\1_Reverse Numbers with a Stack.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\1_Reverse Numbers with a Stack\obj\Debug\netcoreapp2.0\1_Reverse Numbers with a Stack.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\1_Reverse Numbers with a Stack\obj\Debug\netcoreapp2.0\1_Reverse Numbers with a Stack.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\1_Reverse Numbers with a Stack\obj\Debug\netcoreapp2.0\1_Reverse Numbers with a Stack.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\1_Reverse Numbers with a Stack\obj\Debug\netcoreapp2.0\1_Reverse Numbers with a Stack.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\1_Reverse Numbers with a Stack\obj\Debug\netcoreapp2.0\1_Reverse Numbers with a Stack.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\1_Reverse Numbers with a Stack\obj\Debug\netcoreapp2.0\1_Reverse Numbers with a Stack.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\1_Reverse Numbers with a Stack\bin\Debug\netcoreapp2.0\1_Reverse Numbers with a Stack.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\1_Reverse Numbers with a Stack\bin\Debug\netcoreapp2.0\1_Reverse Numbers with a Stack.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\1_Reverse Numbers with a Stack\bin\Debug\netcoreapp2.0\1_Reverse Numbers with a Stack.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\1_Reverse Numbers with a Stack\bin\Debug\netcoreapp2.0\1_Reverse Numbers with a Stack.dll
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\1_Reverse Numbers with a Stack\bin\Debug\netcoreapp2.0\1_Reverse Numbers with a Stack.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\1_Reverse Numbers with a Stack\obj\Debug\netcoreapp2.0\1_Reverse Numbers with a Stack.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\1_Reverse Numbers with a Stack\obj\Debug\netcoreapp2.0\1_Reverse Numbers with a Stack.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\1_Reverse Numbers with a Stack\obj\Debug\netcoreapp2.0\1_Reverse Numbers with a Stack.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\1_Reverse Numbers with a Stack\obj\Debug\netcoreapp2.0\1_Reverse Numbers with a Stack.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\1_Reverse Numbers with a Stack\obj\Debug\netcoreapp2.0\1_Reverse Numbers with a Stack.dll
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\1_Reverse Numbers with a Stack\obj\Debug\netcoreapp2.0\1_Reverse Numbers with a Stack.pdb

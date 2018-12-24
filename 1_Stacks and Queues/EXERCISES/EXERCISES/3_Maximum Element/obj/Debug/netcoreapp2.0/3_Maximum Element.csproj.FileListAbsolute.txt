@@ -1,0 +1,22 @@
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\3_Maximum Element\bin\Debug\netcoreapp2.0\3_Maximum Element.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\3_Maximum Element\bin\Debug\netcoreapp2.0\3_Maximum Element.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\3_Maximum Element\bin\Debug\netcoreapp2.0\3_Maximum Element.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\3_Maximum Element\bin\Debug\netcoreapp2.0\3_Maximum Element.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\3_Maximum Element\bin\Debug\netcoreapp2.0\3_Maximum Element.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\3_Maximum Element\obj\Debug\netcoreapp2.0\3_Maximum Element.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\3_Maximum Element\obj\Debug\netcoreapp2.0\3_Maximum Element.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\3_Maximum Element\obj\Debug\netcoreapp2.0\3_Maximum Element.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\3_Maximum Element\obj\Debug\netcoreapp2.0\3_Maximum Element.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\3_Maximum Element\obj\Debug\netcoreapp2.0\3_Maximum Element.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\3_Maximum Element\obj\Debug\netcoreapp2.0\3_Maximum Element.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\3_Maximum Element\bin\Debug\netcoreapp2.0\3_Maximum Element.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\3_Maximum Element\bin\Debug\netcoreapp2.0\3_Maximum Element.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\3_Maximum Element\bin\Debug\netcoreapp2.0\3_Maximum Element.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\3_Maximum Element\bin\Debug\netcoreapp2.0\3_Maximum Element.dll
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\3_Maximum Element\bin\Debug\netcoreapp2.0\3_Maximum Element.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\3_Maximum Element\obj\Debug\netcoreapp2.0\3_Maximum Element.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\3_Maximum Element\obj\Debug\netcoreapp2.0\3_Maximum Element.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\3_Maximum Element\obj\Debug\netcoreapp2.0\3_Maximum Element.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\3_Maximum Element\obj\Debug\netcoreapp2.0\3_Maximum Element.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\3_Maximum Element\obj\Debug\netcoreapp2.0\3_Maximum Element.dll
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\3_Maximum Element\obj\Debug\netcoreapp2.0\3_Maximum Element.pdb

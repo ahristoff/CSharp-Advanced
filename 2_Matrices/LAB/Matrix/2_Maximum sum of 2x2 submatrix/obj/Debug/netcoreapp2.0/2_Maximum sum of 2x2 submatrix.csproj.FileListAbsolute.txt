@@ -1,0 +1,22 @@
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\LAB\Matrix\2_Maximum sum of 2x2 submatrix\bin\Debug\netcoreapp2.0\2_Maximum sum of 2x2 submatrix.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\LAB\Matrix\2_Maximum sum of 2x2 submatrix\bin\Debug\netcoreapp2.0\2_Maximum sum of 2x2 submatrix.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\LAB\Matrix\2_Maximum sum of 2x2 submatrix\bin\Debug\netcoreapp2.0\2_Maximum sum of 2x2 submatrix.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\LAB\Matrix\2_Maximum sum of 2x2 submatrix\bin\Debug\netcoreapp2.0\2_Maximum sum of 2x2 submatrix.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\LAB\Matrix\2_Maximum sum of 2x2 submatrix\bin\Debug\netcoreapp2.0\2_Maximum sum of 2x2 submatrix.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\LAB\Matrix\2_Maximum sum of 2x2 submatrix\obj\Debug\netcoreapp2.0\2_Maximum sum of 2x2 submatrix.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\LAB\Matrix\2_Maximum sum of 2x2 submatrix\obj\Debug\netcoreapp2.0\2_Maximum sum of 2x2 submatrix.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\LAB\Matrix\2_Maximum sum of 2x2 submatrix\obj\Debug\netcoreapp2.0\2_Maximum sum of 2x2 submatrix.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\LAB\Matrix\2_Maximum sum of 2x2 submatrix\obj\Debug\netcoreapp2.0\2_Maximum sum of 2x2 submatrix.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\LAB\Matrix\2_Maximum sum of 2x2 submatrix\obj\Debug\netcoreapp2.0\2_Maximum sum of 2x2 submatrix.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\LAB\Matrix\2_Maximum sum of 2x2 submatrix\obj\Debug\netcoreapp2.0\2_Maximum sum of 2x2 submatrix.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\2_Matrices\LAB\Matrix\2_Maximum sum of 2x2 submatrix\bin\Debug\netcoreapp2.0\2_Maximum sum of 2x2 submatrix.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\2_Matrices\LAB\Matrix\2_Maximum sum of 2x2 submatrix\bin\Debug\netcoreapp2.0\2_Maximum sum of 2x2 submatrix.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\2_Matrices\LAB\Matrix\2_Maximum sum of 2x2 submatrix\bin\Debug\netcoreapp2.0\2_Maximum sum of 2x2 submatrix.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\2_Matrices\LAB\Matrix\2_Maximum sum of 2x2 submatrix\bin\Debug\netcoreapp2.0\2_Maximum sum of 2x2 submatrix.dll
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\2_Matrices\LAB\Matrix\2_Maximum sum of 2x2 submatrix\bin\Debug\netcoreapp2.0\2_Maximum sum of 2x2 submatrix.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\2_Matrices\LAB\Matrix\2_Maximum sum of 2x2 submatrix\obj\Debug\netcoreapp2.0\2_Maximum sum of 2x2 submatrix.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\2_Matrices\LAB\Matrix\2_Maximum sum of 2x2 submatrix\obj\Debug\netcoreapp2.0\2_Maximum sum of 2x2 submatrix.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\2_Matrices\LAB\Matrix\2_Maximum sum of 2x2 submatrix\obj\Debug\netcoreapp2.0\2_Maximum sum of 2x2 submatrix.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\2_Matrices\LAB\Matrix\2_Maximum sum of 2x2 submatrix\obj\Debug\netcoreapp2.0\2_Maximum sum of 2x2 submatrix.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\2_Matrices\LAB\Matrix\2_Maximum sum of 2x2 submatrix\obj\Debug\netcoreapp2.0\2_Maximum sum of 2x2 submatrix.dll
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\2_Matrices\LAB\Matrix\2_Maximum sum of 2x2 submatrix\obj\Debug\netcoreapp2.0\2_Maximum sum of 2x2 submatrix.pdb

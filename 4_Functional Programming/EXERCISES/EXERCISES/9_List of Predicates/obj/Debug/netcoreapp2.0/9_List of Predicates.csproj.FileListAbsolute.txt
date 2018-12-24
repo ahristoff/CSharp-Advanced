@@ -1,0 +1,10 @@
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\4_Functional Programming\EXERCISES\Exercise\9_List of Predicates\bin\Debug\netcoreapp2.0\9_List of Predicates.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\4_Functional Programming\EXERCISES\Exercise\9_List of Predicates\bin\Debug\netcoreapp2.0\9_List of Predicates.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\4_Functional Programming\EXERCISES\Exercise\9_List of Predicates\bin\Debug\netcoreapp2.0\9_List of Predicates.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\4_Functional Programming\EXERCISES\Exercise\9_List of Predicates\bin\Debug\netcoreapp2.0\9_List of Predicates.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\4_Functional Programming\EXERCISES\Exercise\9_List of Predicates\bin\Debug\netcoreapp2.0\9_List of Predicates.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\4_Functional Programming\EXERCISES\Exercise\9_List of Predicates\obj\Debug\netcoreapp2.0\9_List of Predicates.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\4_Functional Programming\EXERCISES\Exercise\9_List of Predicates\obj\Debug\netcoreapp2.0\9_List of Predicates.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\4_Functional Programming\EXERCISES\Exercise\9_List of Predicates\obj\Debug\netcoreapp2.0\9_List of Predicates.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\4_Functional Programming\EXERCISES\Exercise\9_List of Predicates\obj\Debug\netcoreapp2.0\9_List of Predicates.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\4_Functional Programming\EXERCISES\Exercise\9_List of Predicates\obj\Debug\netcoreapp2.0\9_List of Predicates.pdb

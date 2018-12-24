@@ -1,0 +1,22 @@
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\910_Simple Text Editor\bin\Debug\netcoreapp2.0\910_Simple Text Editor.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\910_Simple Text Editor\bin\Debug\netcoreapp2.0\910_Simple Text Editor.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\910_Simple Text Editor\bin\Debug\netcoreapp2.0\910_Simple Text Editor.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\910_Simple Text Editor\bin\Debug\netcoreapp2.0\910_Simple Text Editor.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\910_Simple Text Editor\bin\Debug\netcoreapp2.0\910_Simple Text Editor.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\910_Simple Text Editor\obj\Debug\netcoreapp2.0\910_Simple Text Editor.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\910_Simple Text Editor\obj\Debug\netcoreapp2.0\910_Simple Text Editor.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\910_Simple Text Editor\obj\Debug\netcoreapp2.0\910_Simple Text Editor.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\910_Simple Text Editor\obj\Debug\netcoreapp2.0\910_Simple Text Editor.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\910_Simple Text Editor\obj\Debug\netcoreapp2.0\910_Simple Text Editor.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\910_Simple Text Editor\obj\Debug\netcoreapp2.0\910_Simple Text Editor.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\910_Simple Text Editor\bin\Debug\netcoreapp2.0\910_Simple Text Editor.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\910_Simple Text Editor\bin\Debug\netcoreapp2.0\910_Simple Text Editor.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\910_Simple Text Editor\bin\Debug\netcoreapp2.0\910_Simple Text Editor.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\910_Simple Text Editor\bin\Debug\netcoreapp2.0\910_Simple Text Editor.dll
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\910_Simple Text Editor\bin\Debug\netcoreapp2.0\910_Simple Text Editor.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\910_Simple Text Editor\obj\Debug\netcoreapp2.0\910_Simple Text Editor.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\910_Simple Text Editor\obj\Debug\netcoreapp2.0\910_Simple Text Editor.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\910_Simple Text Editor\obj\Debug\netcoreapp2.0\910_Simple Text Editor.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\910_Simple Text Editor\obj\Debug\netcoreapp2.0\910_Simple Text Editor.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\910_Simple Text Editor\obj\Debug\netcoreapp2.0\910_Simple Text Editor.dll
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\910_Simple Text Editor\obj\Debug\netcoreapp2.0\910_Simple Text Editor.pdb

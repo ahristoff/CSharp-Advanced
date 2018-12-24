@@ -1,0 +1,33 @@
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\4_Matching Brackets\bin\Debug\netcoreapp2.0\4_Matching Brackets.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\4_Matching Brackets\bin\Debug\netcoreapp2.0\4_Matching Brackets.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\4_Matching Brackets\bin\Debug\netcoreapp2.0\4_Matching Brackets.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\4_Matching Brackets\bin\Debug\netcoreapp2.0\4_Matching Brackets.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\4_Matching Brackets\bin\Debug\netcoreapp2.0\4_Matching Brackets.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\4_Matching Brackets\obj\Debug\netcoreapp2.0\4_Matching Brackets.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\4_Matching Brackets\obj\Debug\netcoreapp2.0\4_Matching Brackets.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\4_Matching Brackets\obj\Debug\netcoreapp2.0\4_Matching Brackets.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\4_Matching Brackets\obj\Debug\netcoreapp2.0\4_Matching Brackets.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\4_Matching Brackets\obj\Debug\netcoreapp2.0\4_Matching Brackets.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\4_Matching Brackets\obj\Debug\netcoreapp2.0\4_Matching Brackets.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\4_Matching Brackets\bin\Debug\netcoreapp2.0\4_Matching Brackets.deps.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\4_Matching Brackets\bin\Debug\netcoreapp2.0\4_Matching Brackets.runtimeconfig.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\4_Matching Brackets\bin\Debug\netcoreapp2.0\4_Matching Brackets.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\4_Matching Brackets\bin\Debug\netcoreapp2.0\4_Matching Brackets.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\4_Matching Brackets\bin\Debug\netcoreapp2.0\4_Matching Brackets.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\4_Matching Brackets\obj\Debug\netcoreapp2.0\4_Matching Brackets.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\4_Matching Brackets\obj\Debug\netcoreapp2.0\4_Matching Brackets.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\4_Matching Brackets\obj\Debug\netcoreapp2.0\4_Matching Brackets.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\4_Matching Brackets\obj\Debug\netcoreapp2.0\4_Matching Brackets.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\4_Matching Brackets\obj\Debug\netcoreapp2.0\4_Matching Brackets.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\4_Matching Brackets\obj\Debug\netcoreapp2.0\4_Matching Brackets.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\4_Matching Brackets\bin\Debug\netcoreapp2.0\4_Matching Brackets.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\4_Matching Brackets\bin\Debug\netcoreapp2.0\4_Matching Brackets.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\4_Matching Brackets\bin\Debug\netcoreapp2.0\4_Matching Brackets.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\4_Matching Brackets\bin\Debug\netcoreapp2.0\4_Matching Brackets.dll
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\4_Matching Brackets\bin\Debug\netcoreapp2.0\4_Matching Brackets.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\4_Matching Brackets\obj\Debug\netcoreapp2.0\4_Matching Brackets.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\4_Matching Brackets\obj\Debug\netcoreapp2.0\4_Matching Brackets.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\4_Matching Brackets\obj\Debug\netcoreapp2.0\4_Matching Brackets.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\4_Matching Brackets\obj\Debug\netcoreapp2.0\4_Matching Brackets.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\4_Matching Brackets\obj\Debug\netcoreapp2.0\4_Matching Brackets.dll
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\4_Matching Brackets\obj\Debug\netcoreapp2.0\4_Matching Brackets.pdb

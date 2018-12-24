@@ -1,0 +1,22 @@
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\3 – Number Wars\bin\Debug\netcoreapp2.0\3 – Number Wars.deps.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\3 – Number Wars\bin\Debug\netcoreapp2.0\3 – Number Wars.runtimeconfig.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\3 – Number Wars\bin\Debug\netcoreapp2.0\3 – Number Wars.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\3 – Number Wars\bin\Debug\netcoreapp2.0\3 – Number Wars.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\3 – Number Wars\bin\Debug\netcoreapp2.0\3 – Number Wars.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\3 – Number Wars\obj\Debug\netcoreapp2.0\3 – Number Wars.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\3 – Number Wars\obj\Debug\netcoreapp2.0\3 – Number Wars.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\3 – Number Wars\obj\Debug\netcoreapp2.0\3 – Number Wars.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\3 – Number Wars\obj\Debug\netcoreapp2.0\3 – Number Wars.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\3 – Number Wars\obj\Debug\netcoreapp2.0\3 – Number Wars.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\3 – Number Wars\obj\Debug\netcoreapp2.0\3 – Number Wars.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\3 – Number Wars\bin\Debug\netcoreapp2.0\3 – Number Wars.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\3 – Number Wars\bin\Debug\netcoreapp2.0\3 – Number Wars.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\3 – Number Wars\bin\Debug\netcoreapp2.0\3 – Number Wars.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\3 – Number Wars\bin\Debug\netcoreapp2.0\3 – Number Wars.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\3 – Number Wars\bin\Debug\netcoreapp2.0\3 – Number Wars.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\3 – Number Wars\obj\Debug\netcoreapp2.0\3 – Number Wars.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\3 – Number Wars\obj\Debug\netcoreapp2.0\3 – Number Wars.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\3 – Number Wars\obj\Debug\netcoreapp2.0\3 – Number Wars.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\3 – Number Wars\obj\Debug\netcoreapp2.0\3 – Number Wars.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\3 – Number Wars\obj\Debug\netcoreapp2.0\3 – Number Wars.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\3 – Number Wars\obj\Debug\netcoreapp2.0\3 – Number Wars.pdb

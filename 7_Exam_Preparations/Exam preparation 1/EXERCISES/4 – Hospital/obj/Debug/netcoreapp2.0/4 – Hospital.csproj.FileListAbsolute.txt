@@ -1,0 +1,22 @@
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\4 – Hospital\bin\Debug\netcoreapp2.0\4 – Hospital.deps.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\4 – Hospital\bin\Debug\netcoreapp2.0\4 – Hospital.runtimeconfig.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\4 – Hospital\bin\Debug\netcoreapp2.0\4 – Hospital.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\4 – Hospital\bin\Debug\netcoreapp2.0\4 – Hospital.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\4 – Hospital\bin\Debug\netcoreapp2.0\4 – Hospital.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\4 – Hospital\obj\Debug\netcoreapp2.0\4 – Hospital.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\4 – Hospital\obj\Debug\netcoreapp2.0\4 – Hospital.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\4 – Hospital\obj\Debug\netcoreapp2.0\4 – Hospital.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\4 – Hospital\obj\Debug\netcoreapp2.0\4 – Hospital.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\4 – Hospital\obj\Debug\netcoreapp2.0\4 – Hospital.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\4 – Hospital\obj\Debug\netcoreapp2.0\4 – Hospital.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\4 – Hospital\bin\Debug\netcoreapp2.0\4 – Hospital.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\4 – Hospital\bin\Debug\netcoreapp2.0\4 – Hospital.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\4 – Hospital\bin\Debug\netcoreapp2.0\4 – Hospital.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\4 – Hospital\bin\Debug\netcoreapp2.0\4 – Hospital.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\4 – Hospital\bin\Debug\netcoreapp2.0\4 – Hospital.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\4 – Hospital\obj\Debug\netcoreapp2.0\4 – Hospital.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\4 – Hospital\obj\Debug\netcoreapp2.0\4 – Hospital.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\4 – Hospital\obj\Debug\netcoreapp2.0\4 – Hospital.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\4 – Hospital\obj\Debug\netcoreapp2.0\4 – Hospital.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\4 – Hospital\obj\Debug\netcoreapp2.0\4 – Hospital.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\4 – Hospital\obj\Debug\netcoreapp2.0\4 – Hospital.pdb

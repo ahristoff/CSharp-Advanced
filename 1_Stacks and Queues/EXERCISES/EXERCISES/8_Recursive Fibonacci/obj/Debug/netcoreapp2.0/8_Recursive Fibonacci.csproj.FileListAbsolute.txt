@@ -1,0 +1,22 @@
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\8_Recursive Fibonacci\bin\Debug\netcoreapp2.0\8_Recursive Fibonacci.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\8_Recursive Fibonacci\bin\Debug\netcoreapp2.0\8_Recursive Fibonacci.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\8_Recursive Fibonacci\bin\Debug\netcoreapp2.0\8_Recursive Fibonacci.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\8_Recursive Fibonacci\bin\Debug\netcoreapp2.0\8_Recursive Fibonacci.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\8_Recursive Fibonacci\bin\Debug\netcoreapp2.0\8_Recursive Fibonacci.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\8_Recursive Fibonacci\obj\Debug\netcoreapp2.0\8_Recursive Fibonacci.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\8_Recursive Fibonacci\obj\Debug\netcoreapp2.0\8_Recursive Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\8_Recursive Fibonacci\obj\Debug\netcoreapp2.0\8_Recursive Fibonacci.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\8_Recursive Fibonacci\obj\Debug\netcoreapp2.0\8_Recursive Fibonacci.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\8_Recursive Fibonacci\obj\Debug\netcoreapp2.0\8_Recursive Fibonacci.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\8_Recursive Fibonacci\obj\Debug\netcoreapp2.0\8_Recursive Fibonacci.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\8_Recursive Fibonacci\bin\Debug\netcoreapp2.0\8_Recursive Fibonacci.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\8_Recursive Fibonacci\bin\Debug\netcoreapp2.0\8_Recursive Fibonacci.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\8_Recursive Fibonacci\bin\Debug\netcoreapp2.0\8_Recursive Fibonacci.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\8_Recursive Fibonacci\bin\Debug\netcoreapp2.0\8_Recursive Fibonacci.dll
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\8_Recursive Fibonacci\bin\Debug\netcoreapp2.0\8_Recursive Fibonacci.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\8_Recursive Fibonacci\obj\Debug\netcoreapp2.0\8_Recursive Fibonacci.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\8_Recursive Fibonacci\obj\Debug\netcoreapp2.0\8_Recursive Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\8_Recursive Fibonacci\obj\Debug\netcoreapp2.0\8_Recursive Fibonacci.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\8_Recursive Fibonacci\obj\Debug\netcoreapp2.0\8_Recursive Fibonacci.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\8_Recursive Fibonacci\obj\Debug\netcoreapp2.0\8_Recursive Fibonacci.dll
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\8_Recursive Fibonacci\obj\Debug\netcoreapp2.0\8_Recursive Fibonacci.pdb

@@ -1,0 +1,12 @@
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\5. Slicing File\bin\Debug\netcoreapp2.0\5. Slicing File.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\5. Slicing File\bin\Debug\netcoreapp2.0\5. Slicing File.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\5. Slicing File\bin\Debug\netcoreapp2.0\5. Slicing File.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\5. Slicing File\bin\Debug\netcoreapp2.0\5. Slicing File.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\5. Slicing File\bin\Debug\netcoreapp2.0\5. Slicing File.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\5. Slicing File\obj\Debug\netcoreapp2.0\5. Slicing File.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\5. Slicing File\obj\Debug\netcoreapp2.0\5. Slicing File.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\5. Slicing File\obj\Debug\netcoreapp2.0\5. Slicing File.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\5. Slicing File\obj\Debug\netcoreapp2.0\5. Slicing File.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\5. Slicing File\obj\Debug\netcoreapp2.0\5. Slicing File.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\5. Slicing File\obj\Debug\netcoreapp2.0\5. Slicing File.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\5. Slicing File\bin\Debug\netcoreapp2.0\sliceMe.mp4

@@ -1,0 +1,22 @@
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\2 – Knight Game\bin\Debug\netcoreapp2.0\2 – Knight Game.deps.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\2 – Knight Game\bin\Debug\netcoreapp2.0\2 – Knight Game.runtimeconfig.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\2 – Knight Game\bin\Debug\netcoreapp2.0\2 – Knight Game.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\2 – Knight Game\bin\Debug\netcoreapp2.0\2 – Knight Game.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\2 – Knight Game\bin\Debug\netcoreapp2.0\2 – Knight Game.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\2 – Knight Game\obj\Debug\netcoreapp2.0\2 – Knight Game.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\2 – Knight Game\obj\Debug\netcoreapp2.0\2 – Knight Game.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\2 – Knight Game\obj\Debug\netcoreapp2.0\2 – Knight Game.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\2 – Knight Game\obj\Debug\netcoreapp2.0\2 – Knight Game.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\2 – Knight Game\obj\Debug\netcoreapp2.0\2 – Knight Game.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\7_Exam_Preparation\25_Juny_2017\25_juny_2017\2 – Knight Game\obj\Debug\netcoreapp2.0\2 – Knight Game.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\2 – Knight Game\bin\Debug\netcoreapp2.0\2 – Knight Game.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\2 – Knight Game\bin\Debug\netcoreapp2.0\2 – Knight Game.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\2 – Knight Game\bin\Debug\netcoreapp2.0\2 – Knight Game.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\2 – Knight Game\bin\Debug\netcoreapp2.0\2 – Knight Game.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\2 – Knight Game\bin\Debug\netcoreapp2.0\2 – Knight Game.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\2 – Knight Game\obj\Debug\netcoreapp2.0\2 – Knight Game.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\2 – Knight Game\obj\Debug\netcoreapp2.0\2 – Knight Game.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\2 – Knight Game\obj\Debug\netcoreapp2.0\2 – Knight Game.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\2 – Knight Game\obj\Debug\netcoreapp2.0\2 – Knight Game.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\2 – Knight Game\obj\Debug\netcoreapp2.0\2 – Knight Game.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\7_Exam_Preparation\Exam preparation 1\EXERCISES\2 – Knight Game\obj\Debug\netcoreapp2.0\2 – Knight Game.pdb

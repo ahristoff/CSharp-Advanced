@@ -1,0 +1,22 @@
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\3_Decimal to Binary Converter\bin\Debug\netcoreapp2.0\3_Decimal to Binary Converter.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\3_Decimal to Binary Converter\bin\Debug\netcoreapp2.0\3_Decimal to Binary Converter.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\3_Decimal to Binary Converter\bin\Debug\netcoreapp2.0\3_Decimal to Binary Converter.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\3_Decimal to Binary Converter\bin\Debug\netcoreapp2.0\3_Decimal to Binary Converter.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\3_Decimal to Binary Converter\bin\Debug\netcoreapp2.0\3_Decimal to Binary Converter.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\3_Decimal to Binary Converter\obj\Debug\netcoreapp2.0\3_Decimal to Binary Converter.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\3_Decimal to Binary Converter\obj\Debug\netcoreapp2.0\3_Decimal to Binary Converter.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\3_Decimal to Binary Converter\obj\Debug\netcoreapp2.0\3_Decimal to Binary Converter.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\3_Decimal to Binary Converter\obj\Debug\netcoreapp2.0\3_Decimal to Binary Converter.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\3_Decimal to Binary Converter\obj\Debug\netcoreapp2.0\3_Decimal to Binary Converter.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\LAB\queues_LAB\3_Decimal to Binary Converter\obj\Debug\netcoreapp2.0\3_Decimal to Binary Converter.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\3_Decimal to Binary Converter\bin\Debug\netcoreapp2.0\3_Decimal to Binary Converter.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\3_Decimal to Binary Converter\bin\Debug\netcoreapp2.0\3_Decimal to Binary Converter.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\3_Decimal to Binary Converter\bin\Debug\netcoreapp2.0\3_Decimal to Binary Converter.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\3_Decimal to Binary Converter\bin\Debug\netcoreapp2.0\3_Decimal to Binary Converter.dll
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\3_Decimal to Binary Converter\bin\Debug\netcoreapp2.0\3_Decimal to Binary Converter.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\3_Decimal to Binary Converter\obj\Debug\netcoreapp2.0\3_Decimal to Binary Converter.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\3_Decimal to Binary Converter\obj\Debug\netcoreapp2.0\3_Decimal to Binary Converter.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\3_Decimal to Binary Converter\obj\Debug\netcoreapp2.0\3_Decimal to Binary Converter.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\3_Decimal to Binary Converter\obj\Debug\netcoreapp2.0\3_Decimal to Binary Converter.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\3_Decimal to Binary Converter\obj\Debug\netcoreapp2.0\3_Decimal to Binary Converter.dll
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\LAB\EXERCISES\3_Decimal to Binary Converter\obj\Debug\netcoreapp2.0\3_Decimal to Binary Converter.pdb

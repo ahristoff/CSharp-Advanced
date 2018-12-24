@@ -1,0 +1,22 @@
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\4_Basic Queue Operations\bin\Debug\netcoreapp2.0\4_Basic Queue Operations.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\4_Basic Queue Operations\bin\Debug\netcoreapp2.0\4_Basic Queue Operations.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\4_Basic Queue Operations\bin\Debug\netcoreapp2.0\4_Basic Queue Operations.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\4_Basic Queue Operations\bin\Debug\netcoreapp2.0\4_Basic Queue Operations.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\4_Basic Queue Operations\bin\Debug\netcoreapp2.0\4_Basic Queue Operations.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\4_Basic Queue Operations\obj\Debug\netcoreapp2.0\4_Basic Queue Operations.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\4_Basic Queue Operations\obj\Debug\netcoreapp2.0\4_Basic Queue Operations.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\4_Basic Queue Operations\obj\Debug\netcoreapp2.0\4_Basic Queue Operations.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\4_Basic Queue Operations\obj\Debug\netcoreapp2.0\4_Basic Queue Operations.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\4_Basic Queue Operations\obj\Debug\netcoreapp2.0\4_Basic Queue Operations.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\4_Basic Queue Operations\obj\Debug\netcoreapp2.0\4_Basic Queue Operations.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\4_Basic Queue Operations\bin\Debug\netcoreapp2.0\4_Basic Queue Operations.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\4_Basic Queue Operations\bin\Debug\netcoreapp2.0\4_Basic Queue Operations.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\4_Basic Queue Operations\bin\Debug\netcoreapp2.0\4_Basic Queue Operations.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\4_Basic Queue Operations\bin\Debug\netcoreapp2.0\4_Basic Queue Operations.dll
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\4_Basic Queue Operations\bin\Debug\netcoreapp2.0\4_Basic Queue Operations.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\4_Basic Queue Operations\obj\Debug\netcoreapp2.0\4_Basic Queue Operations.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\4_Basic Queue Operations\obj\Debug\netcoreapp2.0\4_Basic Queue Operations.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\4_Basic Queue Operations\obj\Debug\netcoreapp2.0\4_Basic Queue Operations.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\4_Basic Queue Operations\obj\Debug\netcoreapp2.0\4_Basic Queue Operations.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\4_Basic Queue Operations\obj\Debug\netcoreapp2.0\4_Basic Queue Operations.dll
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\4_Basic Queue Operations\obj\Debug\netcoreapp2.0\4_Basic Queue Operations.pdb

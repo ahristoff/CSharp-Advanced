@@ -1,0 +1,10 @@
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\913_TriFunction\bin\Debug\netcoreapp2.0\913_TriFunction.deps.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\913_TriFunction\bin\Debug\netcoreapp2.0\913_TriFunction.runtimeconfig.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\913_TriFunction\bin\Debug\netcoreapp2.0\913_TriFunction.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\913_TriFunction\bin\Debug\netcoreapp2.0\913_TriFunction.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\913_TriFunction\bin\Debug\netcoreapp2.0\913_TriFunction.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\913_TriFunction\obj\Debug\netcoreapp2.0\913_TriFunction.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\913_TriFunction\obj\Debug\netcoreapp2.0\913_TriFunction.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\913_TriFunction\obj\Debug\netcoreapp2.0\913_TriFunction.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\913_TriFunction\obj\Debug\netcoreapp2.0\913_TriFunction.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\913_TriFunction\obj\Debug\netcoreapp2.0\913_TriFunction.pdb

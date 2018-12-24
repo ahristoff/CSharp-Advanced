@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\2_Basic Stack Operations\bin\Debug\netcoreapp2.0\2_Basic Stack Operations.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\2_Basic Stack Operations\bin\Debug\netcoreapp2.0\2_Basic Stack Operations.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\2_Basic Stack Operations\bin\Debug\netcoreapp2.0\2_Basic Stack Operations.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\2_Basic Stack Operations\bin\Debug\netcoreapp2.0\2_Basic Stack Operations.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\2_Basic Stack Operations\bin\Debug\netcoreapp2.0\2_Basic Stack Operations.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\2_Basic Stack Operations\obj\Debug\netcoreapp2.0\2_Basic Stack Operations.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\2_Basic Stack Operations\obj\Debug\netcoreapp2.0\2_Basic Stack Operations.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\2_Basic Stack Operations\obj\Debug\netcoreapp2.0\2_Basic Stack Operations.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\2_Basic Stack Operations\obj\Debug\netcoreapp2.0\2_Basic Stack Operations.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\2_Basic Stack Operations\obj\Debug\netcoreapp2.0\2_Basic Stack Operations.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\2_Basic Stack Operations\obj\Debug\netcoreapp2.0\2_Basic Stack Operations.pdb

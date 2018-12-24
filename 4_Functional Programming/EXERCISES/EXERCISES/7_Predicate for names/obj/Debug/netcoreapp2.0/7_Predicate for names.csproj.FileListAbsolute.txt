@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\7_Predicate for names\bin\Debug\netcoreapp2.0\7_Predicate for names.deps.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\7_Predicate for names\bin\Debug\netcoreapp2.0\7_Predicate for names.runtimeconfig.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\7_Predicate for names\bin\Debug\netcoreapp2.0\7_Predicate for names.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\7_Predicate for names\bin\Debug\netcoreapp2.0\7_Predicate for names.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\7_Predicate for names\bin\Debug\netcoreapp2.0\7_Predicate for names.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\7_Predicate for names\obj\Debug\netcoreapp2.0\7_Predicate for names.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\7_Predicate for names\obj\Debug\netcoreapp2.0\7_Predicate for names.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\7_Predicate for names\obj\Debug\netcoreapp2.0\7_Predicate for names.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\7_Predicate for names\obj\Debug\netcoreapp2.0\7_Predicate for names.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\7_Predicate for names\obj\Debug\netcoreapp2.0\7_Predicate for names.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\7_Predicate for names\obj\Debug\netcoreapp2.0\7_Predicate for names.pdb

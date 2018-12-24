@@ -1,0 +1,12 @@
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\1. Odd Lines\bin\Debug\netcoreapp2.0\1. Odd Lines.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\1. Odd Lines\bin\Debug\netcoreapp2.0\1. Odd Lines.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\1. Odd Lines\bin\Debug\netcoreapp2.0\1. Odd Lines.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\1. Odd Lines\bin\Debug\netcoreapp2.0\1. Odd Lines.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\1. Odd Lines\bin\Debug\netcoreapp2.0\1. Odd Lines.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\1. Odd Lines\obj\Debug\netcoreapp2.0\1. Odd Lines.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\1. Odd Lines\obj\Debug\netcoreapp2.0\1. Odd Lines.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\1. Odd Lines\obj\Debug\netcoreapp2.0\1. Odd Lines.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\1. Odd Lines\obj\Debug\netcoreapp2.0\1. Odd Lines.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\1. Odd Lines\obj\Debug\netcoreapp2.0\1. Odd Lines.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\1. Odd Lines\obj\Debug\netcoreapp2.0\1. Odd Lines.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\1. Odd Lines\bin\Debug\netcoreapp2.0\CSharpAdvanced.txt

@@ -1,0 +1,10 @@
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\6_Reverse and exclude\bin\Debug\netcoreapp2.0\6_Reverse and exclude.deps.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\6_Reverse and exclude\bin\Debug\netcoreapp2.0\6_Reverse and exclude.runtimeconfig.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\6_Reverse and exclude\bin\Debug\netcoreapp2.0\6_Reverse and exclude.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\6_Reverse and exclude\bin\Debug\netcoreapp2.0\6_Reverse and exclude.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\6_Reverse and exclude\bin\Debug\netcoreapp2.0\6_Reverse and exclude.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\6_Reverse and exclude\obj\Debug\netcoreapp2.0\6_Reverse and exclude.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\6_Reverse and exclude\obj\Debug\netcoreapp2.0\6_Reverse and exclude.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\6_Reverse and exclude\obj\Debug\netcoreapp2.0\6_Reverse and exclude.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\6_Reverse and exclude\obj\Debug\netcoreapp2.0\6_Reverse and exclude.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\6_Reverse and exclude\obj\Debug\netcoreapp2.0\6_Reverse and exclude.pdb

@@ -1,0 +1,22 @@
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\5_Calculate Sequence with Queue\bin\Debug\netcoreapp2.0\5_Calculate Sequence with Queue.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\5_Calculate Sequence with Queue\bin\Debug\netcoreapp2.0\5_Calculate Sequence with Queue.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\5_Calculate Sequence with Queue\bin\Debug\netcoreapp2.0\5_Calculate Sequence with Queue.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\5_Calculate Sequence with Queue\bin\Debug\netcoreapp2.0\5_Calculate Sequence with Queue.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\5_Calculate Sequence with Queue\bin\Debug\netcoreapp2.0\5_Calculate Sequence with Queue.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\5_Calculate Sequence with Queue\obj\Debug\netcoreapp2.0\5_Calculate Sequence with Queue.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\5_Calculate Sequence with Queue\obj\Debug\netcoreapp2.0\5_Calculate Sequence with Queue.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\5_Calculate Sequence with Queue\obj\Debug\netcoreapp2.0\5_Calculate Sequence with Queue.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\5_Calculate Sequence with Queue\obj\Debug\netcoreapp2.0\5_Calculate Sequence with Queue.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\5_Calculate Sequence with Queue\obj\Debug\netcoreapp2.0\5_Calculate Sequence with Queue.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\1_Stacks and Queues\EXERCISES\queues_EXERCISES\5_Calculate Sequence with Queue\obj\Debug\netcoreapp2.0\5_Calculate Sequence with Queue.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\5_Calculate Sequence with Queue\bin\Debug\netcoreapp2.0\5_Calculate Sequence with Queue.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\5_Calculate Sequence with Queue\bin\Debug\netcoreapp2.0\5_Calculate Sequence with Queue.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\5_Calculate Sequence with Queue\bin\Debug\netcoreapp2.0\5_Calculate Sequence with Queue.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\5_Calculate Sequence with Queue\bin\Debug\netcoreapp2.0\5_Calculate Sequence with Queue.dll
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\5_Calculate Sequence with Queue\bin\Debug\netcoreapp2.0\5_Calculate Sequence with Queue.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\5_Calculate Sequence with Queue\obj\Debug\netcoreapp2.0\5_Calculate Sequence with Queue.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\5_Calculate Sequence with Queue\obj\Debug\netcoreapp2.0\5_Calculate Sequence with Queue.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\5_Calculate Sequence with Queue\obj\Debug\netcoreapp2.0\5_Calculate Sequence with Queue.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\5_Calculate Sequence with Queue\obj\Debug\netcoreapp2.0\5_Calculate Sequence with Queue.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\5_Calculate Sequence with Queue\obj\Debug\netcoreapp2.0\5_Calculate Sequence with Queue.dll
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\5_Calculate Sequence with Queue\obj\Debug\netcoreapp2.0\5_Calculate Sequence with Queue.pdb

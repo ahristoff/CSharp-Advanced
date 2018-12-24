@@ -1,0 +1,13 @@
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\3. Word Count\bin\Debug\netcoreapp2.0\3. Word Count.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\3. Word Count\bin\Debug\netcoreapp2.0\3. Word Count.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\3. Word Count\bin\Debug\netcoreapp2.0\3. Word Count.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\3. Word Count\bin\Debug\netcoreapp2.0\3. Word Count.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\3. Word Count\bin\Debug\netcoreapp2.0\3. Word Count.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\3. Word Count\obj\Debug\netcoreapp2.0\3. Word Count.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\3. Word Count\obj\Debug\netcoreapp2.0\3. Word Count.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\3. Word Count\obj\Debug\netcoreapp2.0\3. Word Count.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\3. Word Count\obj\Debug\netcoreapp2.0\3. Word Count.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\3. Word Count\obj\Debug\netcoreapp2.0\3. Word Count.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\3. Word Count\obj\Debug\netcoreapp2.0\3. Word Count.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\3. Word Count\bin\Debug\netcoreapp2.0\text.txt
+C:\Users\ALEN\Desktop\C#Fundamentals\1_C#Advansed\3_Streams\EXERCISES\EXERCISES\3. Word Count\bin\Debug\netcoreapp2.0\words.txt

@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\4_Find Evens or Odds\bin\Debug\netcoreapp2.0\4_Find Evens or Odds.deps.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\4_Find Evens or Odds\bin\Debug\netcoreapp2.0\4_Find Evens or Odds.runtimeconfig.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\4_Find Evens or Odds\bin\Debug\netcoreapp2.0\4_Find Evens or Odds.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\4_Find Evens or Odds\bin\Debug\netcoreapp2.0\4_Find Evens or Odds.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\4_Find Evens or Odds\bin\Debug\netcoreapp2.0\4_Find Evens or Odds.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\4_Find Evens or Odds\obj\Debug\netcoreapp2.0\4_Find Evens or Odds.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\4_Find Evens or Odds\obj\Debug\netcoreapp2.0\4_Find Evens or Odds.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\4_Find Evens or Odds\obj\Debug\netcoreapp2.0\4_Find Evens or Odds.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\4_Find Evens or Odds\obj\Debug\netcoreapp2.0\4_Find Evens or Odds.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\4_Find Evens or Odds\obj\Debug\netcoreapp2.0\4_Find Evens or Odds.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\C#Advansed\4_Functional Programming\EXERCISES\Exercise\4_Find Evens or Odds\obj\Debug\netcoreapp2.0\4_Find Evens or Odds.pdb

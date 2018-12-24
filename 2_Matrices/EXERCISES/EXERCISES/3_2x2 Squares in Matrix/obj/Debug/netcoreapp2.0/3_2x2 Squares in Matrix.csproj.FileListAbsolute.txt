@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\EXERCISES\Matrix\3_2x2 Squares in Matrix\bin\Debug\netcoreapp2.0\3_2x2 Squares in Matrix.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\EXERCISES\Matrix\3_2x2 Squares in Matrix\bin\Debug\netcoreapp2.0\3_2x2 Squares in Matrix.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\EXERCISES\Matrix\3_2x2 Squares in Matrix\bin\Debug\netcoreapp2.0\3_2x2 Squares in Matrix.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\EXERCISES\Matrix\3_2x2 Squares in Matrix\bin\Debug\netcoreapp2.0\3_2x2 Squares in Matrix.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\EXERCISES\Matrix\3_2x2 Squares in Matrix\bin\Debug\netcoreapp2.0\3_2x2 Squares in Matrix.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\EXERCISES\Matrix\3_2x2 Squares in Matrix\obj\Debug\netcoreapp2.0\3_2x2 Squares in Matrix.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\EXERCISES\Matrix\3_2x2 Squares in Matrix\obj\Debug\netcoreapp2.0\3_2x2 Squares in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\EXERCISES\Matrix\3_2x2 Squares in Matrix\obj\Debug\netcoreapp2.0\3_2x2 Squares in Matrix.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\EXERCISES\Matrix\3_2x2 Squares in Matrix\obj\Debug\netcoreapp2.0\3_2x2 Squares in Matrix.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\EXERCISES\Matrix\3_2x2 Squares in Matrix\obj\Debug\netcoreapp2.0\3_2x2 Squares in Matrix.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\C#Advansed\2_Matrices\EXERCISES\Matrix\3_2x2 Squares in Matrix\obj\Debug\netcoreapp2.0\3_2x2 Squares in Matrix.pdb

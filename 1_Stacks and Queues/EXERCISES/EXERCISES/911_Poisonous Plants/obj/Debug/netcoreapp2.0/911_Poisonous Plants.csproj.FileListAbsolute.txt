@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\911_Poisonous Plants\bin\Debug\netcoreapp2.0\911_Poisonous Plants.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\911_Poisonous Plants\bin\Debug\netcoreapp2.0\911_Poisonous Plants.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\911_Poisonous Plants\bin\Debug\netcoreapp2.0\911_Poisonous Plants.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\911_Poisonous Plants\bin\Debug\netcoreapp2.0\911_Poisonous Plants.dll
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\911_Poisonous Plants\bin\Debug\netcoreapp2.0\911_Poisonous Plants.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\911_Poisonous Plants\obj\Debug\netcoreapp2.0\911_Poisonous Plants.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\911_Poisonous Plants\obj\Debug\netcoreapp2.0\911_Poisonous Plants.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\911_Poisonous Plants\obj\Debug\netcoreapp2.0\911_Poisonous Plants.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\911_Poisonous Plants\obj\Debug\netcoreapp2.0\911_Poisonous Plants.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\911_Poisonous Plants\obj\Debug\netcoreapp2.0\911_Poisonous Plants.dll
+C:\Users\ALEN\Desktop\C#Fundamentals – Копие\1_C#Advansed\1_Stacks and Queues\EXERCISES\EXERCISES\911_Poisonous Plants\obj\Debug\netcoreapp2.0\911_Poisonous Plants.pdb
